@@ -73,3 +73,6 @@ iRepair is an app that allows users to view and submit manuals related to automo
      * Stream
  * Profile - User can view their bookmarked & submitted guides
      * Stream
+
+## 4. Wireframes
+<img src="https://i.imgur.com/lKLdw1t.png" width=200><img src="https://i.imgur.com/ejvnCrb.png" width=200><img src="https://i.imgur.com/63MosmS.png" width=200><img src="https://i.imgur.com/IRso6U8.png" width=200><img src="https://i.imgur.com/xw1H2rU.png" width=200><img src="https://i.imgur.com/lNhAGcq.gif" width=200>
