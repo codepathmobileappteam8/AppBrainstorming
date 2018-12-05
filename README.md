@@ -78,3 +78,4 @@ iRepair is an app that allows users to view and submit manuals related to automo
 <img src="https://i.imgur.com/lKLdw1t.png" width=200><img src="https://i.imgur.com/ejvnCrb.png" width=200><img src="https://i.imgur.com/63MosmS.png" width=200><img src="https://i.imgur.com/IRso6U8.png" width=200><img src="https://i.imgur.com/xw1H2rU.png" width=200><img src="https://i.imgur.com/lNhAGcq.gif" width=200>
 
 ## 5. Pitchdeck
+https://docs.google.com/presentation/d/1a8cijLXhSLLuuOAgvhQ3TV0OYK1fMYPLC61IMS30uiI/edit?usp=sharing
